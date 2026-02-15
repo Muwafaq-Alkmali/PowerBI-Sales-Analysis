@@ -48,9 +48,9 @@
 البيانات المستخدمة في هذا المشروع هي **بيانات وهمية** لأغراض التدريب والتطوير، وتم استيرادها من ملفات منفصلة ودمجها باستخدام Power Query.
 
 ## معاينة المشروع
-![Dashboard الرئيسي](../images/dashboard1.png)
+![Dashboard الرئيسي](PowerBI-Sales-Analysis/images/dashboard1.png)
 *صورة 1: نظرة عامة على Dashboard مع تحليل الإيرادات والأرباح وفئات المنتجات*
-![Dashboard الرئيسي](images/dashboard2.png)
+![Dashboard الرئيسي](PowerBI-Sales-Analysis/images/dashboard2.png)
 
 ## كيفية الاستخدام
 1. قم بتحميل ملف Power BI (.pbix)
