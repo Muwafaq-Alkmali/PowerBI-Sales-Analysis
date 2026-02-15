@@ -50,7 +50,7 @@
 ## معاينة المشروع
 ![Dashboard الرئيسي](PowerBI-Sales-Analysis/images/dashboard1.png)
 *صورة 1: نظرة عامة على Dashboard مع تحليل الإيرادات والأرباح وفئات المنتجات*
-![Dashboard الرئيسي](images/dashboard2.png)
+![Dashboard الرئيسي](PowerBI-Sales-Analysis/images/dashboard2.png)
 
 ## كيفية الاستخدام
 1. قم بتحميل ملف Power BI (.pbix)
@@ -96,3 +96,4 @@ PowerBI-Sales-Analysis/
 
 
 - البريد الإلكتروني: [muwaffaqalkmaly@gmail.com]
+
